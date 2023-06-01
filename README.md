@@ -53,6 +53,8 @@ _**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 
 <br>
 
+Note that the directory address can be either a relative one or an absolute one.
+
 <br>
 
 ---
@@ -60,6 +62,10 @@ _**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 <br>
 
 # D. How to Use 2
+
+<br>
+
+step 1. 
 
 <br>
 
