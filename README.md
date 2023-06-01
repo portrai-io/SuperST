@@ -19,9 +19,17 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 <br>
 
+_**Python Version**_ 
+
+<br>
+
 | **Language** | **Version** |
 | --- | --- |
 | Python | 3.8.13 |
+
+<br>
+
+_**Python Packages**_
 
 <br>
 
