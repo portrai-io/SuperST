@@ -41,7 +41,7 @@ _**step 2.**_ Git clone SuperST at a Linux terminal.
   
 <br>
 
-_**step 3.**_ Make a jupyter notebook file at the same directory with app.py.
+_**step 3.**_ Make a jupyter notebook file at the same directory as app.py.
 
 <br>
 
@@ -53,15 +53,32 @@ _**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 
 <br>
 
-Note that the directory address can be either a relative one or an absolute one.
-
-<br>
-
 ---
 
 <br>
 
 # D. How to Use 2
+
+<br>
+
+_**step 1.**_ Open a Linux terminal.
+
+<br>
+
+_**step 2.**_ Type a command like below.
+
+<br>
+
+<code> python app.py --tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ --Tgenes Rbfox3 Lamp5 --num_iter 32 --is_cut_bg True </code>
+
+<br>
+
+_**step 3.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be open with the following in a jupyter notebook file.
+
+<code> f = h5py.File("SuperST.hdf5", 'r') </code>
+
+<br>
+
 
 <br>
 
