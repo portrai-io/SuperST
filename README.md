@@ -33,25 +33,23 @@ _**step 1.**_ Open your jupyter notebook or jupyter lab.
 
 <br>
 
-_**step 2.**_ Git clone SuperST.
+_**step 2.**_ Git clone SuperST at a Linux terminal.
 
 <br>
 
-<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">from</span> <span style="color: #0e84b5; font-weight: bold">app</span> <span style="color: #008800; font-weight: bold">import</span> <span style="color: #333333">*</span>
-</pre></div>
-
+<code> git clone https://github.com/portrai-io/SuperST.git </code>
+  
 <br>
 
 _**step 3.**_ Make a jupyter notebook file at the same directory with app.py.
 
 <br>
 
-_**step 4.**_ import all the functions in app.py.
+_**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 
 <br>
 
-<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #008800; font-weight: bold">from</span> <span style="color: #0e84b5; font-weight: bold">app</span> <span style="color: #008800; font-weight: bold">import</span> <span style="color: #333333">*</span>
-</pre></div>
+<code> </code>
 
 <br>
 
