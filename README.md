@@ -91,8 +91,6 @@ _**step 3.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 Refer to the jupyter notebook file at the Example folder, where two usage methods are briefly introduced.
 
-<br>
-
 The example dataset originates from the 10x Genomics Dataset ([ref](https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-section-2-coronal-stains-dapi-anti-gfap-anti-neu-n-1-standard-1-1-0)).
 
 <br>
