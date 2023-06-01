@@ -27,9 +27,19 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 # C. How to Use 1
 
-> **step 1.** Open your jupyter notebook. 
-> 
-> git clone
+**step 1.** Open your jupyter notebook or jupyter lab. 
+
+**step 2.** Git clone SuperST.
+
+<!-- HTML generated using hilite.me --><div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><table><tr><td><pre style="margin: 0; line-height: 125%">1</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #000000">https</span><span style="color: #000000; font-weight: bold">:</span><span style="color: #ce5c00; font-weight: bold">//</span><span style="color: #000000">github</span><span style="color: #ce5c00; font-weight: bold">.</span><span style="color: #000000">com</span><span style="color: #ce5c00; font-weight: bold">/</span><span style="color: #000000">portrai</span><span style="color: #ce5c00; font-weight: bold">-</span><span style="color: #000000">io</span><span style="color: #ce5c00; font-weight: bold">/</span><span style="color: #000000">SuperST</span><span style="color: #ce5c00; font-weight: bold">.</span><span style="color: #000000">git</span>
+</pre></td></tr></table></div>
+
+**step 3.** Make a jupyter notebook file at the same directory with app.py.
+
+**step 4.** import all the functions in app.py.
+
+<!-- HTML generated using hilite.me --><div style="background: #f8f8f8; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><table><tr><td><pre style="margin: 0; line-height: 125%">1</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #204a87; font-weight: bold">from</span> <span style="color: #000000">app</span> <span style="color: #204a87; font-weight: bold">import</span> <span style="color: #ce5c00; font-weight: bold">*</span>
+</pre></td></tr></table></div>
 
 <br>
 
