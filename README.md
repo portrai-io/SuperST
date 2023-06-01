@@ -15,8 +15,6 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 ---
 
-<br>
-
 # B. Environments
 
 <br>
@@ -40,8 +38,6 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 <br>
 
 ---
-
-<br>
 
 # C. How to Use 1
 
@@ -73,8 +69,6 @@ _**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 
 ---
 
-<br>
-
 # D. How to Use 2
 
 <br>
@@ -101,8 +95,6 @@ _**step 3.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 ---
 
-<br>
-
 # E. Example
 
 <br>
@@ -114,8 +106,6 @@ The example dataset originates from the 10x Genomics Dataset ([ref](https://www.
 <br>
 
 ---
-
-<br>
 
 # F. Who we are
 We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity.
