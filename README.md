@@ -4,7 +4,7 @@ SuperST is a novel algorithm that employs a deep image prior (_i.e._, Unet) to c
 
 <br>
 <center>
-<img src="https://github.com/portrai-io/SuperST/assets/55747737/e83be965-7bae-4f72-b9b4-ed723cbc211f" alt="drawing" />
+<img src="https://github.com/portrai-io/SuperST/assets/55747737/f603fa0b-8e74-488a-b769-01051b7c5298" alt="drawing" />
 </center>
 <br>
 <br>
