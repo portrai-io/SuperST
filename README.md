@@ -49,7 +49,7 @@ _**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 
 <br>
 
-<code> </code>
+<code> from app import * </code>
 
 <br>
 
