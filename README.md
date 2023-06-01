@@ -1,4 +1,4 @@
-# SuperST
+# A. Overview
 
 SuperST is a novel algorithm that employs a deep image prior (_i.e._, Unet) to create dense matrices from low-resolution Spatial Transcriptomics (ST) libraries. The details of how SuperST is run are explained in this repository and are also discussed in our paper. Briefly, SuperST is composed of five units, that said A, B, C, D, and E, which indicate an input H&E image, conceptual down-sampling unit, _‘concatenate’_, conceptual up-sampling unit, and _‘conv2d_25’_, respectively. 
 
@@ -17,7 +17,41 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 <br>
 
-# How to Use
+# B. Environments
 
-## Step 1. 
+<br>
 
+---
+
+<br>
+
+# C. How to Use 1
+
+> **step 1.** Open your jupyter notebook. 
+> 
+> git clone
+
+<br>
+
+---
+
+<br>
+
+# D. How to Use 2
+
+<br>
+
+---
+
+<br>
+
+# E. Example
+
+<br>
+
+---
+
+<br>
+
+# F. Who we are
+We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity.
