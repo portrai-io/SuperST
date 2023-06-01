@@ -7,4 +7,4 @@
 <br>
 <br>
 
-SuperST is a novel algorithm that employs a deep image prior to create dense matrices from low-resolution Spatial Transcriptomics (ST) libraries. The details of how SuperST is run are explained in this repository and are also discussed in our published paper.
+SuperST is a novel algorithm that employs a deep image prior to create dense matrices from low-resolution Spatial Transcriptomics (ST) libraries. The details of how SuperST is run are explained in this repository and are also discussed in our paper.
