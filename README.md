@@ -22,8 +22,11 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 | **Language** | **Version** |
 | --- | --- |
 | Python | 3.8.13; Python=3.8 is preferred for SuperST. |
-| --- | --- |
+
+<br>
+
 | **Package** | **Version**  |
+| --- | --- |
 | h5py | 3.8.0 |
 | keras | 2.4.3 |
 | matplotlib | 3.6.2 |
