@@ -21,7 +21,7 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 | **Language** | **Version** |
 | --- | --- |
-| Python | 3.8.13; Python=3.8 is preferred for SuperST. |
+| Python | 3.8.13 |
 
 <br>
 
@@ -37,7 +37,11 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 | scanpy | 1.9.1 |
 | scikit-image | 0.18.3 |
 | scipy | 1.10.1 |
-| tensorflow | 2.4.3; tensorflow=2 is preferred for SuperST. |
+| tensorflow | 2.4.3 |
+
+<br>
+
+Note that Python=3.8 is preferred and tensorflow=2 is preferred for SuperST.
 
 <br>
 
