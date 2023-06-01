@@ -2,7 +2,7 @@
 
 <br>
 <center>
-<img src="https://github.com/portrai-io/SuperST/assets/55747737/0a664ff6-3cb8-45d8-b98f-1aecc10d00b9" alt="drawing" width = 800 />
+<img src="https://github.com/portrai-io/SuperST/assets/55747737/0a664ff6-3cb8-45d8-b98f-1aecc10d00b9" alt="drawing" />
 </center>
 <br>
 <br>
