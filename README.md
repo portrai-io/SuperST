@@ -75,14 +75,9 @@ _**step 2.**_ Type a command like below.
 
 _**step 3.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be open with the following in a jupyter notebook file.
 
+<br>
+
 <code> f = h5py.File("SuperST.hdf5", 'r') </code>
-
-<br>
-
-
-<br>
-
-step 1. 
 
 <br>
 
@@ -91,6 +86,14 @@ step 1.
 <br>
 
 # E. Example
+
+<br>
+
+Refer to the jupyter notebook file at the Example folder, where two usage methods are briefly introduced.
+
+<br>
+
+The example dataset originates from the 10x Genomics Dataset ([ref](https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-section-2-coronal-stains-dapi-anti-gfap-anti-neu-n-1-standard-1-1-0)).
 
 <br>
 
