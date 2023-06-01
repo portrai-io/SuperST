@@ -29,11 +29,11 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 <br>
 
-**step 1.** Open your jupyter notebook or jupyter lab. 
+_**step 1.**_ Open your jupyter notebook or jupyter lab. 
 
 <br>
 
-**step 2.** Git clone SuperST.
+_**step 2.**_ Git clone SuperST.
 
 <br>
 
@@ -42,11 +42,11 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 <br>
 
-**step 3.** Make a jupyter notebook file at the same directory with app.py.
+_**step 3.**_ Make a jupyter notebook file at the same directory with app.py.
 
 <br>
 
-**step 4.** import all the functions in app.py.
+_**step 4.**_ import all the functions in app.py.
 
 <br>
 
