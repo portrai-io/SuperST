@@ -21,6 +21,24 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 <br>
 
+| **Language** | **Version** |
+| --- | --- |
+| Python | 3.8.13; Python=3.8 is preferred for SuperST. |
+| **Package** | **Version**  |
+| h5py | 3.8.0 |
+| keras | 2.4.3 |
+| matplotlib | 3.6.2 |
+| numpy | 1.21.6 |
+| opencv-python | 4.6.0.66 |
+| pandas | 1.5.3 |
+| protobuf | 3.19.1 |
+| scanpy | 1.9.1 |
+| scikit-image | 0.18.3 |
+| scipy | 1.10.1 |
+| tensorflow | 2.4.3; tensorflow=2 is preferred for SuperST. |
+
+<br>
+
 ---
 
 <br>
