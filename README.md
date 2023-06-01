@@ -1,6 +1,6 @@
 # SuperST
 
-SuperST is a novel algorithm that employs a deep image prior to create dense matrices from low-resolution Spatial Transcriptomics (ST) libraries. The details of how SuperST is run are explained in this repository and are also discussed in our paper. Briefly, SuperST is composed of five units, that said A, B, C, D, and E, which indicate an input H&E image, conceptual down-sampling unit, ‘concatenate’, conceptual up-sampling unit, and ‘conv2d_25’ respectively. 
+SuperST is a novel algorithm that employs a deep image prior (i.e., Unet) to create dense matrices from low-resolution Spatial Transcriptomics (ST) libraries. The details of how SuperST is run are explained in this repository and are also discussed in our paper. Briefly, SuperST is composed of five units, that said A, B, C, D, and E, which indicate an input H&E image, conceptual down-sampling unit, ‘concatenate’, conceptual up-sampling unit, and ‘conv2d_25’ respectively. 
 
 <br>
 <center>
