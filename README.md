@@ -49,7 +49,7 @@ _**Python Packages**_
 
 <br>
 
-Note that Python=3.8 is preferred and tensorflow=2 is preferred for SuperST.
+Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are preferred for SuperST.
 
 <br>
 
