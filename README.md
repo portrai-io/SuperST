@@ -123,5 +123,5 @@ The example dataset originates from the 10x Genomics Dataset ([ref](https://www.
 
 ---
 
-# F. Who we are
-We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity.
+# F. Contact
+We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity. For any questions or inquiries, please contact us at contact@portrai.io.
