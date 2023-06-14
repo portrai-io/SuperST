@@ -98,7 +98,7 @@ if __name__ == "__main__":
     parser.add_argument('--targetsize',type=int,
                         default=256)
     parser.add_argument('--num_iter',type=int,
-                        default=300)
+                        default=32)
     parser.add_argument('--verbose',type=int,
                         default=0)
     parser.add_argument('--maskbg',type=float,
