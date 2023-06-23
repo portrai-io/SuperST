@@ -49,7 +49,7 @@ _**Python Packages**_
 
 <br>
 
-Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferred for SuperST.
+Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferred for SuperST. Also, it is recommended to install TensorFlow and Keras first due to dependencies.
 
 <br>
 
