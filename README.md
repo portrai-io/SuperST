@@ -79,7 +79,7 @@ _**step 4.**_ Open your jupyter notebook or jupyter lab.
 
 <br>
 
-_**step 5.**_ Import all the functions from app.py into a Jupyter notebook file.
+_**step 5.**_ Import all the functions from app.py into a Jupyter notebook file, and use the functions with the following manner.
 
 <br>
 
