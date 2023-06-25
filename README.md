@@ -117,10 +117,10 @@ _**step 3.**_ Type a command like below.
 <br>
 
 <code>python app.py \
-&nbsp;&nbsp;&nbsp; --tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ \
-&nbsp;&nbsp;&nbsp; --Tgenes Rbfox3 Lamp5 \
-&nbsp;&nbsp;&nbsp; --num_iter 32 \
-&nbsp;&nbsp;&nbsp; --is_cut_bg True </code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --Tgenes Rbfox3 Lamp5 \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --num_iter 32 \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --is_cut_bg True </code>
 
 <br>
 
