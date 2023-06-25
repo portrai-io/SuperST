@@ -90,7 +90,7 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 <code>Tgenes=['Rbfox3', 'Lamp5']</code>
 
 <code>demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \
-merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
+            merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
 
 <br>
 
@@ -148,9 +148,7 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <br>
 
-Refer to the jupyter notebook file at the Example folder, where the usage methods are briefly introduced.
-
-The example dataset originates from the 10x Genomics Dataset ([ref](https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-section-2-coronal-stains-dapi-anti-gfap-anti-neu-n-1-standard-1-1-0)).
+Refer to the jupyter notebook file at the Example folder, where the usage methods are briefly introduced. The example dataset originates from the 10x Genomics Dataset ([ref](https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-section-2-coronal-stains-dapi-anti-gfap-anti-neu-n-1-standard-1-1-0)).
 
 <br>
 
