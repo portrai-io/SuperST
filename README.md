@@ -83,7 +83,7 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 
 <br>
 
-<code> from app import * </code>
+<code>from app import * </code>
 
 <code>tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'</code>
 
@@ -116,7 +116,7 @@ _**step 3.**_ Type a command like below.
 
 <br>
 
-<code> python app.py \
+<code>python app.py \
 --tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ \
 --Tgenes Rbfox3 Lamp5 \
 --num_iter 32 \
