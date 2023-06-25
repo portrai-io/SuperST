@@ -59,16 +59,16 @@ Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferre
 
 <br>
 
-_**step 1.**_ Open your jupyter notebook or jupyter lab. 
-
-<br>
-
-_**step 2.**_ Git clone SuperST at a Linux terminal.
+_**step 1.**_ Git clone SuperST at a Linux terminal.
 
 <br>
 
 <code> git clone https://github.com/portrai-io/SuperST.git </code>
   
+<br>
+
+_**step 2.**_ Open your jupyter notebook or jupyter lab. 
+
 <br>
 
 _**step 3.**_ Make a jupyter notebook file at the same directory as app.py.
@@ -89,11 +89,19 @@ _**step 4.**_ Import all the functions from app.py into a Jupyter notebook file.
 
 <br>
 
-_**step 1.**_ Open a Linux terminal.
+_**step 1.**_ Git clone SuperST at a Linux terminal.
 
 <br>
 
-_**step 2.**_ Type a command like below.
+<code> git clone https://github.com/portrai-io/SuperST.git </code>
+
+<br>
+
+_**step 2.**_ Open a Linux terminal.
+
+<br>
+
+_**step 3.**_ Type a command like below.
 
 <br>
 
@@ -101,7 +109,7 @@ _**step 2.**_ Type a command like below.
 
 <br>
 
-_**step 3.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be open with the following in a jupyter notebook file.
+_**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be open with the following in a jupyter notebook file.
 
 <br>
 
