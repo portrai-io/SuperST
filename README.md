@@ -63,7 +63,7 @@ _**step 1.**_ Open a Linux terminal.
 
 <br>
 
-_**step 2.**_ Git clone SuperST at a Linux terminal.
+_**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
@@ -97,7 +97,7 @@ _**step 1.**_ Open a Linux terminal.
 
 <br>
 
-_**step 2.**_ Git clone SuperST at a Linux terminal.
+_**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
@@ -127,7 +127,7 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <br>
 
-Refer to the jupyter notebook file at the Example folder, where two usage methods are briefly introduced.
+Refer to the jupyter notebook file at the Example folder, where the usage methods are briefly introduced.
 
 The example dataset originates from the 10x Genomics Dataset ([ref](https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-section-2-coronal-stains-dapi-anti-gfap-anti-neu-n-1-standard-1-1-0)).
 
@@ -136,4 +136,4 @@ The example dataset originates from the 10x Genomics Dataset ([ref](https://www.
 ---
 
 # F. Contact
-We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity. For any questions or inquiries, please contact us at contact@portrai.io.
+We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity. For any questions or inquiries, please contact us at [contact@portrai.io](mailto:contact@portrai.io).
