@@ -84,11 +84,8 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file.
 <br>
 
 <code> from app import * </code>
-
 <code>tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'</code>
-
 <code>Tgenes=['Rbfox3', 'Lamp5']</code>
-
 <code>demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
 
 <br>
@@ -123,14 +120,11 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <br>
 
+<code>import h5py</code>
 <code>f = h5py.File("SuperST.hdf5", 'r')</code>
-
 <code>dset1 = f['demask_image_t']</code>
-
 <code>dset2 = f['demask_image_t_g']</code>
-
 <code>dset3 = f['tsimg1_']</code>
-
 <code>dset4 = f['conv_spatial_images_']</code>
 
 <br>
