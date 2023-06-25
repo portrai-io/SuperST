@@ -90,7 +90,7 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 <code>Tgenes=['Rbfox3', 'Lamp5']</code>
 
 <code>demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
 
 <br>
 
