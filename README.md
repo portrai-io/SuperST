@@ -116,7 +116,11 @@ _**step 3.**_ Type a command like below.
 
 <br>
 
-<code> python app.py --tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ --Tgenes Rbfox3 Lamp5 --num_iter 32 --is_cut_bg True </code>
+<code> python app.py \
+--tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ \
+--Tgenes Rbfox3 Lamp5 \
+--num_iter 32 \
+--is_cut_bg True </code>
 
 <br>
 
