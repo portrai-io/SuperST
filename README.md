@@ -67,7 +67,7 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-<code> git clone https://github.com/portrai-io/SuperST.git </code>
+<code>git clone https://github.com/portrai-io/SuperST.git </code>
 
 <br>
 
@@ -84,10 +84,10 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 <br>
 
 <code>from app import * \
- tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'\
- Tgenes=['Rbfox3', 'Lamp5']\
- demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
+&nbsp;tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'\
+&nbsp;Tgenes=['Rbfox3', 'Lamp5']\
+&nbsp;demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
 
 <br>
 
@@ -105,7 +105,7 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-<code> git clone https://github.com/portrai-io/SuperST.git </code>
+<code>git clone https://github.com/portrai-io/SuperST.git </code>
 
 <br>
 
@@ -127,10 +127,10 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <code>import h5py \
 f = h5py.File("SuperST.hdf5", 'r')
- dset1 = f['demask_image_t'] \
- dset2 = f['demask_image_t_g'] \
- dset3 = f['tsimg1_'] \
- dset4 = f['conv_spatial_images_']</code>
+&nbsp;dset1 = f['demask_image_t'] \
+&nbsp;dset2 = f['demask_image_t_g'] \
+&nbsp;dset3 = f['tsimg1_'] \
+&nbsp;dset4 = f['conv_spatial_images_']</code>
 
 <br>
 
