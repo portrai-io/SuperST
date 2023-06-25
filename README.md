@@ -55,7 +55,23 @@ Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferre
 
 ---
 
-# C. How to Use 1
+# C. Data
+
+<br>
+
+When specifying 'tissue_dir', ensure the directory includes five crucial files typically produced by the 10X Visium platform:
+
+- `filtered_feature_bc_matrix.h5`
+- `spatial/tissue_positions_list.csv`
+- `spatial/scalefactors_json.json`
+- `spatial/tissue_lowres_image.png`
+- `spatial/tissue_hires_image.png`
+
+<br>
+
+---
+
+# D. How to Use 1
 
 <br>
 
@@ -93,7 +109,7 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 
 ---
 
-# D. How to Use 2
+# E. How to Use 2
 
 <br>
 
@@ -131,22 +147,6 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 &nbsp;dset2 = f['demask_image_t_g'] \
 &nbsp;dset3 = f['tsimg1_'] \
 &nbsp;dset4 = f['conv_spatial_images_']</code>
-
-<br>
-
----
-
-# E. Data
-
-<br>
-
-When specifying 'tissue_dir', ensure the directory includes five crucial files typically produced by the 10X Visium platform:
-
-- `filtered_feature_bc_matrix.h5`
-- `spatial/tissue_positions_list.csv`
-- `spatial/scalefactors_json.json`
-- `spatial/tissue_lowres_image.png`
-- `spatial/tissue_hires_image.png`
 
 <br>
 
