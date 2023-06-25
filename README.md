@@ -117,7 +117,12 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <br>
 
-<code> f = h5py.File("SuperST.hdf5", 'r') </code>
+<!-- HTML generated using hilite.me --><div style="background: #111111; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #ffffff">f</span> <span style="color: #ffffff">=</span> <span style="color: #ffffff">h5py.File(</span><span style="color: #0086d2">&quot;SuperST.hdf5&quot;</span><span style="color: #ffffff">,</span> <span style="color: #0086d2">&#39;r&#39;</span><span style="color: #ffffff">)</span>
+<span style="color: #ffffff">dset1</span> <span style="color: #ffffff">=</span> <span style="color: #ffffff">f[</span><span style="color: #0086d2">&#39;demask_image_t&#39;</span><span style="color: #ffffff">]</span>
+<span style="color: #ffffff">dset2</span> <span style="color: #ffffff">=</span> <span style="color: #ffffff">f[</span><span style="color: #0086d2">&#39;demask_image_t_g&#39;</span><span style="color: #ffffff">]</span>
+<span style="color: #ffffff">dset3</span> <span style="color: #ffffff">=</span> <span style="color: #ffffff">f[</span><span style="color: #0086d2">&#39;tsimg1_&#39;</span><span style="color: #ffffff">]</span>
+<span style="color: #ffffff">dset4</span> <span style="color: #ffffff">=</span> <span style="color: #ffffff">f[</span><span style="color: #0086d2">&#39;conv_spatial_images_&#39;</span><span style="color: #ffffff">]</span>
+</pre></div>
 
 <br>
 
