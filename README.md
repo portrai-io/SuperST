@@ -83,7 +83,7 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 
 <br>
 
-<code>from app import *\
+<code>from app import * \
 tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'\
 Tgenes=['Rbfox3', 'Lamp5']\
 demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \
