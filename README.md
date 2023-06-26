@@ -17,8 +17,6 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 # B. Environments
 
-<br>
-
 _**Python Version**_ 
 
 <br>
@@ -57,8 +55,6 @@ Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferre
 
 # C. Data
 
-<br>
-
 When specifying 'tissue_dir', ensure the directory includes five crucial files typically produced by the 10X Visium platform:
 
 - `filtered_feature_bc_matrix.h5`
@@ -72,8 +68,6 @@ When specifying 'tissue_dir', ensure the directory includes five crucial files t
 ---
 
 # D. How to Use 1
-
-<br>
 
 _**step 1.**_ Open a Linux terminal.
 
@@ -110,8 +104,6 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 ---
 
 # E. How to Use 2
-
-<br>
 
 _**step 1.**_ Open a Linux terminal.
 
@@ -154,8 +146,6 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 # F. Example
 
-<br>
-
 Refer to the jupyter notebook file at the Example directory, where the usage methods are briefly introduced. The example dataset originates from the 10x Genomics Dataset ([ref](https://www.10xgenomics.com/resources/datasets/adult-mouse-brain-section-2-coronal-stains-dapi-anti-gfap-anti-neu-n-1-standard-1-1-0)).
 
 <br>
@@ -163,4 +153,5 @@ Refer to the jupyter notebook file at the Example directory, where the usage met
 ---
 
 # G. Contact
+
 We, as Portrai. Inc., innovate the process of developing new drugs beyond the limits of human cognition, and deliver safer and more effective new drugs to humanity. For any questions or inquiries, please contact us at [contact@portrai.io](mailto:contact@portrai.io).
