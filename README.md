@@ -11,6 +11,8 @@ SuperST is a novel algorithm that employs a deep image prior (_i.e._, Unet) to c
 
 Looking forward, SuperST holds the potential to be utilized across various research domains that employ ST in imaging analysis workflows. Also, SuperST-produced image data could be effortlessly integrated with other spatial omics technologies. Overall, SuperST marks a significant stride forward in the realm of Spatial Transcriptomics, paving the way for a deeper understanding of intricate biological systems.
 
+*Park, J.B. et al. (2023). Generation of Super-resolution Images from Low-resolution Spatial Transcriptomics Library by Using Deep Image Prior. bioRxiv.* [[Link]](https://www.biorxiv.org/content/10.1101/2023.06.26.546529v1) 
+
 <br>
 
 ---
