@@ -15,7 +15,7 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 _**Publication**_
 
-Park, J.B. et al. (2023). _Generation of Super-resolution Images from Low-resolution Spatial Transcriptomics Library by Using Deep Image Prior_. bioRxiv. [[Link]](https://www.biorxiv.org/content/10.1101/2023.06.26.546529v1) 
+1. Park, J.B. et al. (2023). _Generation of Super-resolution Images from Low-resolution Spatial Transcriptomics Library by Using Deep Image Prior_. bioRxiv. [[Link]](https://www.biorxiv.org/content/10.1101/2023.06.26.546529v1) 
 
 <br>
 
