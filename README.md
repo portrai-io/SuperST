@@ -141,7 +141,7 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <code>import h5py \
 &nbsp;f = h5py.File("SuperST.hdf5", 'r')
-&nbsp;dset1 = f['demask_image_t'] <span>\</span>
+&nbsp;dset1 = f['demask_image_t'] \\
 &nbsp;dset2 = f['demask_image_t_g'] \
 &nbsp;dset3 = f['tsimg1_'] \
 &nbsp;dset4 = f['conv_spatial_images_']</code>
