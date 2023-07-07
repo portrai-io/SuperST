@@ -17,6 +17,10 @@ _**Publication**_
 
 1. Park, J.B. et al. (2023). _Generation of Super-resolution Images from Low-resolution Spatial Transcriptomics Library by Using Deep Image Prior_. bioRxiv. [[Link]](https://www.biorxiv.org/content/10.1101/2023.06.26.546529v1) 
 
+_**Patent**_
+
+1. Patent and Trademark Office, Republic of Korea. Application Number: 10-2023-0060674. Application Date: 2023.05.10. Super resolution Spatial transcriptome image generating method, Apparatus performing the same, and Program recorded in computer readable media for performing the same. 3rd inventor.
+
 <br>
 
 ---
