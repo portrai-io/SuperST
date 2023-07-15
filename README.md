@@ -19,7 +19,7 @@ _**Publication**_
 
 _**Patent**_
 
-* Patent and Trademark Office, Republic of Korea. Application Number: 10-2023-0060674. Application Date: 2023.05.10. Super resolution Spatial transcriptome image generating method, Apparatus performing the same, and Program recorded in computer readable media for performing the same. 3rd inventor.
+* Patent and Trademark Office, Republic of Korea. Application Number: 10-2023-0060674. Application Date: 2023.05.10. Super resolution Spatial transcriptome image generating method, Apparatus performing the same, and Program recorded in computer readable media for performing the same. 
 
 <br>
 
