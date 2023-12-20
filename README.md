@@ -29,7 +29,10 @@ _**Patent**_
 
 Download the `superst.yml` file and run the following command in an Anaconda Prompt:
 
-- `conda env create -f superst.yml`
+```python
+conda env create -f superst.yml
+conda activate SuperST
+```
 
 <br>
 
