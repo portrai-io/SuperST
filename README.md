@@ -37,7 +37,7 @@ Download the `superst.yml` file and run the following command in an Anaconda Pro
 
 # C. Data
 
-When specifying 'tissue_dir', ensure the directory includes five crucial files typically produced by the 10X Visium platform:
+When specifying `tissue_dir`, ensure the directory includes five crucial files typically produced by the 10X Visium platform:
 
 - `filtered_feature_bc_matrix.h5`
 - `spatial/tissue_positions_list.csv`
@@ -63,7 +63,7 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-_**step 3.**_ Make a jupyter notebook file at the same directory as app.py.
+_**step 3.**_ Make a jupyter notebook file at the same directory as `app.py`.
   
 <br>
 
@@ -115,7 +115,7 @@ python app.py \\
 
 <br>
 
-_**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be open with the following in a jupyter notebook file.
+_**step 4.**_ The outfile, `SuperST.hdf5`, at the same directory as `app.py` can be open with the following in a jupyter notebook file.
 
 <br>
 
