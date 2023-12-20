@@ -27,7 +27,7 @@ _**Patent**_
 
 # B. Environments
 
-Download the `superst.yml` file and run the following command:
+Download the `superst.yml` file and run the following command in an Anaconda Prompt:
 
 - `conda env create -f superst.yml`
 
