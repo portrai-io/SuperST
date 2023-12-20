@@ -57,7 +57,7 @@ _**Python Packages**_
 
 <br>
 
-Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferred for SuperST. Also, it is recommended to install tensorflow and keras at first due to dependencies. Additionally, if there's a version conflict with numpy and other packages, you should execute the following command:
+Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferred for SuperST. Also, it is recommended to install tensorflow and keras at first due to dependencies. Additionally, if there's a version conflict with numpy and other packages, you should execute the following command (may take a long time):
 
 - `conda env create -f superst.yml`
 
