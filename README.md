@@ -110,7 +110,7 @@ from app import *
 tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'
 Tgenes = ['Rbfox3', 'Lamp5']
 demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \\
-merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
+    merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
 ```
 
 <br>
