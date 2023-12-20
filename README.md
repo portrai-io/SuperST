@@ -89,7 +89,7 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-<code>git clone https://github.com/portrai-io/SuperST.git </code>
+`git clone https://github.com/portrai-io/SuperST.git`
 
 <br>
 
@@ -105,11 +105,13 @@ _**step 5.**_ Import all the functions from app.py into a Jupyter notebook file,
 
 <br>
 
-<code>from app import *
-&nbsp;tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'
-&nbsp;Tgenes = ['Rbfox3', 'Lamp5']
-&nbsp;demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
+```python
+from app import *
+tissue_dir = './Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/'
+Tgenes = ['Rbfox3', 'Lamp5']
+demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \\
+merge(tissue_dir, Tgenes, num_iter = 32, is_cut_bg = True)</code>
+```
 
 <br>
 
@@ -125,7 +127,7 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-<code>git clone https://github.com/portrai-io/SuperST.git </code>
+`git clone https://github.com/portrai-io/SuperST.git`
 
 <br>
 
@@ -133,11 +135,13 @@ _**step 3.**_ Type a command like below.
 
 <br>
 
-<code>python app.py \\
-&nbsp;&nbsp; --tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ \\
-&nbsp;&nbsp; --Tgenes Rbfox3 Lamp5 \\
-&nbsp;&nbsp; --num_iter 32 \\
-&nbsp;&nbsp; --is_cut_bg True </code>
+```python
+python app.py \\
+--tissue_dir ./Data/10X/V1_Adult_Mouse_Brain_Coronal_Section_2/ \\
+--Tgenes Rbfox3 Lamp5 \\
+--num_iter 32 \\
+--is_cut_bg True
+```
 
 <br>
 
@@ -145,12 +149,13 @@ _**step 4.**_ The outfile, SuperST.hdf5, at the same directory as app.py can be 
 
 <br>
 
-<code>import h5py 
-&nbsp;f = h5py.File("SuperST.hdf5", 'r')
-&nbsp;dset1 = f['demask_image_t'] 
-&nbsp;dset2 = f['demask_image_t_g'] 
-&nbsp;dset3 = f['tsimg1_'] 
-&nbsp;dset4 = f['conv_spatial_images_']</code>
+```import h5py 
+f = h5py.File("SuperST.hdf5", 'r')
+dset1 = f['demask_image_t'] 
+dset2 = f['demask_image_t_g'] 
+dset3 = f['tsimg1_'] 
+dset4 = f['conv_spatial_images_']
+```
 
 <br>
 
