@@ -27,37 +27,7 @@ _**Patent**_
 
 # B. Environments
 
-_**Python Version**_ 
-
-<br>
-
-| **Language** | **Version** |
-| --- | --- |
-| Python | 3.8.13 |
-
-<br>
-
-_**Python Packages**_
-
-<br>
-
-| **Package** | **Version**  |
-| --- | --- |
-| h5py | 3.8.0 |
-| keras | 2.4.3 |
-| matplotlib | 3.6.2 |
-| numpy | 1.21.6 |
-| opencv-python | 4.6.0.66 |
-| pandas | 1.5.3 |
-| protobuf | 3.19.1 |
-| scanpy | 1.9.1 |
-| scikit-image | 0.18.3 |
-| scipy | 1.10.1 |
-| tensorflow | 2.4.3 |
-
-<br>
-
-Note that Python=3.8, protobuf <= 3.20 and tensorflow=2 are required or preferred for SuperST. Also, it is recommended to install tensorflow and keras at first due to dependencies. Additionally, if there's a version conflict with numpy and other packages, you should execute the following command (may take a long time):
+Download the `superst.yml` file and run the following command:
 
 - `conda env create -f superst.yml`
 
