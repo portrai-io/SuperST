@@ -62,7 +62,9 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-`git clone https://github.com/portrai-io/SuperST.git`
+```python
+git clone https://github.com/portrai-io/SuperST.git
+```
 
 <br>
 
@@ -100,7 +102,9 @@ _**step 2.**_ Git clone SuperST at the Linux terminal.
 
 <br>
 
-`git clone https://github.com/portrai-io/SuperST.git`
+```python
+git clone https://github.com/portrai-io/SuperST.git
+```
 
 <br>
 
