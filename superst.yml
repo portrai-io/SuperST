@@ -185,4 +185,3 @@ dependencies:
       - widgetsnbextension
       - wrapt
       - zipp
-prefix: /home/jeongbinpark/miniconda3/envs/JB_superst
