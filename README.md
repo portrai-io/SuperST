@@ -23,7 +23,7 @@ _**Patent**_
 
 _**Poster**_
 
-* Park, J., Cook, S., Lee, D., Choi, J., Yoo, S., Im, H.-J., Lee, D., & Choi, H. (2023). Cancer region definition using spatial gene expression patterns by super resolution reconstruction algorithm for spatial transcriptomics data. Paper presented at the AACR Annual Meeting 2024, [Location of the conference if available].
+* Park, J., Cook, S., Lee, D., Choi, J., Yoo, S., Im, H.-J., Lee, D., & Choi, H. (2023). Cancer region definition using spatial gene expression patterns by super-resolution reconstruction algorithm for spatial transcriptomics data. Paper presented at the AACR Annual Meeting 2024, San Diego Convention Center, California, USA.
 
 <br>
 
