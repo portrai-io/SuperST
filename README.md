@@ -94,6 +94,10 @@ demask_image_t, demask_image_t_g, tsimg1_, conv_spatial_images_ = \\
 
 <br>
 
+Here, `demask_image_t` indicates SuperST images assuming zero-diffusion, while `demask_image_t_g` means SuperST images with a modifiable Gaussian kernel size specified by `kernel_gauss`.
+
+<br>
+
 ---
 
 # E. How to Use 2
@@ -137,6 +141,10 @@ dset2 = f['demask_image_t_g']
 dset3 = f['tsimg1_'] 
 dset4 = f['conv_spatial_images_']
 ```
+
+<br>
+
+Here, `demask_image_t` indicates SuperST images assuming zero-diffusion, while `demask_image_t_g` means SuperST images with a modifiable Gaussian kernel size specified by `kernel_gauss`.
 
 <br>
 
