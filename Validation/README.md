@@ -1,5 +1,7 @@
-Dataset source: `High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis`
+Dataset source: 
 
-> Journal: https://www.nature.com/articles/s41467-023-43458-x#data-availability
+> Title: `High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis`
 
-> Archive: https://www.10xgenomics.com/products/xenium-in-situ/preview-dataset-human-breast
+> Journal URL: <https://www.nature.com/articles/s41467-023-43458-x#data-availability>
+
+> Archive URL: <https://www.10xgenomics.com/products/xenium-in-situ/preview-dataset-human-breast>
