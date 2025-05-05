@@ -15,7 +15,7 @@ Looking forward, SuperST holds the potential to be utilized across various resea
 
 _**Publication**_
 
-* Park, J. et al. (2023). _Generation of Super-resolution Images from Barcode-based Spatial Transcriptomics Using Deep Image Prior_. bioRxiv. [[Link]](https://www.biorxiv.org/content/10.1101/2023.06.26.546529v1) 
+* Park, J. et al. (2023). _Generation of Super-resolution Images from Barcode-based Spatial Transcriptomics Using Deep Image Prior_. Cell Reports Methods. [[Link]](https://www.cell.com/cms/10.1016/j.crmeth.2024.100937/attachment/ed7adb4c-0901-40a6-a295-bd431e72d660/mmc1.pdf) 
 
 _**Patent**_
 
